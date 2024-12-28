@@ -1,0 +1,1 @@
+# medgel-static
